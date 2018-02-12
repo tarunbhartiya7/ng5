@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Deployment
+
+npm i -g angular-cli-ghpages
+
+push all ur changes to github repo
+
+rebuild your app with new base href -> ng build --prod --base-href="https://tarunbhartiya7.github.io/ng5"
+
+then run -> angular-cli-ghpages
+
