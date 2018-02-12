@@ -42,3 +42,5 @@ rebuild your app with new base href -> ng build --prod --base-href="https://taru
 
 then run -> angular-cli-ghpages
 
+Github pages might take a few minutes to show the deployed site.
+
