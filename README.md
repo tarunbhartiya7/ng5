@@ -38,7 +38,7 @@ npm i -g angular-cli-ghpages
 
 push all ur changes to github repo
 
-rebuild your app with new base href -> ng build --prod --base-href="https://tarunbhartiya7.github.io/ng5"
+rebuild your app with new base href -> ng build --prod --base-href="https://tarunbhartiya7.github.io/ng5/"
 
 then run -> angular-cli-ghpages
 
