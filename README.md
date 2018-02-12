@@ -1,3 +1,8 @@
+
+# Project Description
+
+A sample POC for core features of angular 5 in a nutshell with deployment
+
 # Ng5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
